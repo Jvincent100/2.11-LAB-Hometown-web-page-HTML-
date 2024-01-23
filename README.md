@@ -1,6 +1,6 @@
  2.11-LAB-Hometown-web-page-HTML-
 
-Create a web page about your hometown like the example below.
+Create a web page about your hometown like the example below
 
 Example hometown web page screenshot
 

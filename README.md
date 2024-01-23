@@ -1,4 +1,4 @@
-# 2.11-LAB-Hometown-web-page-HTML-
+ 2.11-LAB-Hometown-web-page-HTML-
 
 Create a web page about your hometown like the example below.
 

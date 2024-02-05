@@ -1,6 +1,6 @@
 2.11 LAB: Hometown web page (HTML)
-Create a web page about your hometown like the example below.
-![image](https://github.com/Jvincent100/2.11-LAB-Hometown-web-page-HTML-/assets/155997904/e0fba330-a07d-48c4-b0b1-9a55ed57c777)
+
+<img src="https://static-resources.zybooks.com/static/zyLab/hometown_screenshot.png" alt="2.11 lab">
 Your web page must meet the following requirements:
 
 Use an appropriate title for the web page title.
